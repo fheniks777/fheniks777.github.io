@@ -38,3 +38,11 @@ Twitch icon: https://www.flaticon.com/free-icon/twitch_3291687?term=twitch&page=
 Image phoenix: https://es.vecteezy.com/foto/23291641-el-creciente-fenix-con-ai-generado
 
 Image microphone: https://freepng.pictures/download/microphone-10/
+
+----------------------------------------------------------------------------------------------
+
+ADQUIRED CODE:
+
+Custom scrollbar: https://github.com/codingstella/projects/tree/main/Custom-Scrollbar
+
+Animated Skill bar: https://github.com/codingstella/projects/tree/main/Animated%20Skills%20Bar
